@@ -1,4 +1,10 @@
-# Project Overview
+# Digital Undergraduate Tutor: Chemical Engineering Support Tool 
+
+## Group Project
+This is a collaborative project developed by a team of 6 members
+
+## Project Overview
+This project focuses on creating an advanced, privacy-preserving learning tool tailored for Chemical Engineering students. By leveraging Microsoft Phi3.5 Mini, an open-source language model, and cutting-edge fine-tuning techniques, the tool provides personalized, context-aware assistance.
 
 - **Model Used:** Microsoft Phi3.5 Mini (Open-source language model)
 - **Fine-tuning Methods:** Parameter-Efficient Fine-Tuning (PEFT) - **QLoRA**, **LoRA**, **Unsloth**
